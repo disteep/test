@@ -3,5 +3,5 @@ const test = () => {
     //commentary from local to 2000 MASTER CHANGE
     //asd
 }
-const res = fetch('https://score.juicyscore.com/static/js.js').then(data=>{console.log(data)})
+const res = fetch('https://score.juaaaaaaaasicyscore.com/static/js.js').then(data=>{console.log(data)})
 console.log(res)
